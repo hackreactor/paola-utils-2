@@ -1,0 +1,25 @@
+{
+  "name": "paola-utils",
+  "version": "1.0.3",
+  "description": "Utility functions for Paola (Precourse Automated Operations and Logistics Assistant)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hackreactor/paola-utils.git"
+  },
+  "author": "Anthony Pecchillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackreactor/paola-utils/issues"
+  },
+  "homepage": "https://github.com/hackreactor/paola-utils#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
